@@ -1,7 +1,7 @@
 # Email Spam Classifier
 
-This repository contains code and resources for an email spam classifier. The project aims to build a machine learning model that can accurately classify emails as either spam or not spam based on their content and characteristics.
-
+ The repository contains code and resources for an email spam classifier.  The task is to build a machine learning model capable of accurately classifying emails as spam or not spam based on their content and characteristics. The project involves developing code and utilizing resources to train a machine learning model for email spam classification. The project successfully creates a machine learning model that accurately classifies emails as either spam or not spam by analyzing their content and characteristics. The repository includes the necessary code and resources for implementing the email spam classifier.
+ 
 # Dataset
 The dataset used in this project is sourced from the spam_detection. It includes a collection of emails labeled as spam or ham (non-spam).
 
